@@ -1,6 +1,6 @@
 //
 // Blackjack
-// by Mark Zamoyta
+// by Kogo
 //
 
 let suits = ['Hearts', 'Clubs', 'Diamonds', 'Spades'];
